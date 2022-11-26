@@ -7,6 +7,6 @@
 
  <p align="justify">This website serves as an online portfolio to showcase my web presence, résumé, story, & featured projects with a Particle.js aligned theme. It was generated using using Jekyll, Sass, and Gulp.js.</p>
 
-The website can be viewed at https://ay2912.github.io/My-Portfolio/
+The website can be viewed at https://pr0404.github.io/My-Portfolio/
 
 Please hit me up at ay2912@srmist.edu.in if you have any feedback or ideas for the website. Leave a :star: &nbsp;if you like it!
